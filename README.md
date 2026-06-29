@@ -158,4 +158,3 @@ The bootcamp focuses on practical applications of Generative AI and
 Vision-Language Models in real-world scenarios.
 ```
 
-Copy this into your GitHub README.md file and add your screenshots! 🎉
